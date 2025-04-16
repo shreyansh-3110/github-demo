@@ -1,3 +1,3 @@
 # github-demo
-this is my first time using github!!
+gg
 i will conquer the web development.
